@@ -1,4 +1,4 @@
-# CampusPulse — University Student Portal & Academic Management System
+# STUDENT DASHBOARD — University Student Portal & Academic Management System
 
 CampusPulse is a modern, production-grade university management portal engineered with React 19, TypeScript, Tailwind CSS, Firebase Authentication, and Google Cloud Firestore. It provides a university workspace for students, faculty, and administrators.
 
