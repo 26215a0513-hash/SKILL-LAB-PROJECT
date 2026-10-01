@@ -1,6 +1,6 @@
 # STUDENT DASHBOARD — University Student Portal & Academic Management System
 
-CampusPulse is a modern, production-grade university management portal engineered with React 19, TypeScript, Tailwind CSS, Firebase Authentication, and Google Cloud Firestore. It provides a university workspace for students, faculty, and administrators.
+Student Dashboard is a modern, production-grade university management portal engineered with React 19, TypeScript, Tailwind CSS, Firebase Authentication, and Google Cloud Firestore. It provides a university workspace for students, faculty, and administrators.
 
 ---
 
@@ -55,13 +55,13 @@ CampusPulse is a modern, production-grade university management portal engineere
 You can switch roles directly using the top toggle pill in the sidebar:
 
 1. **Student Account:**
-   - **Identity:** Elena Vance
+   - **Identity:** Raj
    - **Student ID:** `#CS-2022-8492`
    - **Program:** B.Tech Computer Science (Semester 5)
    - **Status:** Dean's Honors List Awardee
 
 2. **Faculty Account:**
-   - **Identity:** Dr. Alan Vance
+   - **Identity:** Raj
    - **Faculty ID:** `FAC-CS-104`
    - **Role:** Lead Faculty — Systems Division
 
