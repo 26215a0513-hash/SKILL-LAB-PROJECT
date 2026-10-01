@@ -65,10 +65,7 @@ You can switch roles directly using the top toggle pill in the sidebar:
    - **Faculty ID:** `FAC-CS-104`
    - **Role:** Lead Faculty — Systems Division
 
-3. **Administrator Account:**
-   - **Identity:** Academic Registrar & Dean
-   - **Email:** `chaturwedidheeraj911@gmail.com`
-   - **Privileges:** Full institutional configuration
+
    - <img width="927" height="741" alt="Screenshot 2026-10-01 195433" src="https://github.com/user-attachments/assets/d0b983bb-43d6-4d96-84d8-472314019bf2" />
    <img width="912" height="736" alt="Screenshot 2026-10-01 195502" src="https://github.com/user-attachments/assets/f8f39639-6a22-4cbb-a969-a613f924191d" />
    <img width="910" height="737" alt="Screenshot 2026-10-01 195540" src="https://github.com/user-attachments/assets/eedc727b-623a-4e6c-a688-77e1080f9fdf" />
