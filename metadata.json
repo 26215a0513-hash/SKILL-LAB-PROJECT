@@ -1,0 +1,8 @@
+{
+  "name": "STUDENTS DASHBOARD",
+  "description": "Comprehensive university student portal for attendance tracking, timetables, coursework, examination schedules, grades, and faculty-student collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
